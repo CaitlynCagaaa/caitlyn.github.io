@@ -33,7 +33,7 @@ Learning Assistant for Computer Science 121
 ●	Presented assignments and pseudocode to students to facilitate learning
 
 # Projects
-## CPT_S Capstone - Automated Toolbox Inventory System
+## [CPT_S Capstone - Automated Toolbox Inventory System](https://github.com/CaitlynCagaaa/ATICS.git)
 
 The purpose of this project was to develop a toolbox accountability system triggered by RFID badges and utilize video image processing to identify tools checked out by employees. Below is video demonstration of the project and slides explaining more aabout it.
 
