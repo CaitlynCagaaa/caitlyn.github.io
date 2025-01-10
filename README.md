@@ -37,6 +37,6 @@ Learning Assistant for Computer Science 121
 The purpose of this project was to develop a toolbox accountability system triggered by RFID badges and utilize video image processing to identify tools checked out by employees. Below is video demonstration of the project and slides explaining more aabout it. 
 [Slides](https://github.com/CaitlynCagaaa/ATICS/blob/f03f149843522b8a110c982a3c362c2d53efa222/Documentation/SEAS%20Presentation%20.pdf)
 
-[![IMAGE ALT TEXT](https://github.com/CaitlynCagaaa/caitlyn.github.io/blob/e2753ec9f18c78b507261c44bf437e52e5b2311f/Screenshot%20of%20video%20demo%20ACTIS.png)](https://www.youtube.com/watch?v=_Wpxg3KMTWw&list=PLc4EMp9eHQ6zHqABeRu_7bz0xI_J3e3t8)
+[![](https://github.com/CaitlynCagaaa/caitlyn.github.io/blob/e2753ec9f18c78b507261c44bf437e52e5b2311f/Screenshot%20of%20video%20demo%20ACTIS.png)](https://www.youtube.com/watch?v=_Wpxg3KMTWw&list=PLc4EMp9eHQ6zHqABeRu_7bz0xI_J3e3t8)
 
 
