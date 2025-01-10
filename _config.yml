@@ -3,5 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Caitlyn Powers
 description: Computer Science graduate with an interest in Cybersecurity.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "caitlyn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
