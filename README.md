@@ -1,4 +1,4 @@
-# Summarry
+# Summary
 •	Computer Science Graduate with experience in Cybersecurity
 
 •	Experience in reverse engineering and using formal methods toolsets like Frama-C
